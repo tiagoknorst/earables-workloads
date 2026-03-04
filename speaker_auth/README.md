@@ -9,7 +9,7 @@ To run this workload on real data, you need a standard `.wav` audio file.
 * **Bit Depth:** 16-bit PCM
 
 **Setup:**
-1. Place your audio file in this directory (e.g., `test_audio.wav`).
+1. Place your audio file in this directory (e.g., `F00-16000.wav`).
 2. Run the script pointing to your file:
    ```bash
-   python speaker_auth_scratch.py --wav test_audio.wav --timing
+   python speaker_auth_scratch.py --wav F00-16000.wav --timing
