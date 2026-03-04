@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Data files (Users should supply their own)
+# *.wav
+# *.csv
+# *.edf
+
+# Profiling outputs
+*.out
+prof.out
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
